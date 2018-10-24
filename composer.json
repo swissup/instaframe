@@ -1,0 +1,10 @@
+{
+    "name": "swissup/instaframe",
+    "description": "Instagram feed widget",
+    "type": "metapackage",
+    "version": "0.10.0",
+    "license": "OSL-3.0",
+    "require": {
+        "swissup/module-instaframe": "^0.10.0"
+    }
+}
